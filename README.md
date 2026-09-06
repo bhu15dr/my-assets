@@ -1,5 +1,7 @@
-git checkout main
-git pull origin main
+
+URl as: https://cdn.jsdelivr.net/gh/bhu15dr/my-assets@latest/sensualherbsv2/images/dec.webp
+#git checkout main
+#git pull origin main
 
 # Make sure code is ready
 git status
